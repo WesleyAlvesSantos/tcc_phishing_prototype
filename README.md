@@ -14,7 +14,7 @@ O objetivo é criar um **modelo preditivo** para detectar e-mails de phishing ut
 
 ---
 
-## 🚀 Execução  
+## Execução  
 1. Instale as dependências:  
    ```bash
    pip install -r requirements.txt
