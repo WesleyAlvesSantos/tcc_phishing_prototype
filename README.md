@@ -21,7 +21,7 @@ O objetivo é criar um **modelo preditivo** para detectar e-mails de phishing ut
    ```
 2. Execute o sistema:  
    ```bash
-   streamlit run app.py
+   streamlit run modelo_phishing.py
    ```
 3. Acesse em:  
    ```
@@ -32,15 +32,7 @@ O objetivo é criar um **modelo preditivo** para detectar e-mails de phishing ut
 
 ## 📁 Estrutura do Projeto  
 ```
-📁 tcc_phishing_prototype/
-├── app.py
-├── modelo_treinado.joblib
-├── base_dados.csv
-├── requirements.txt
-├── documentação/
-│   ├── Documentação_Técnica.docx
-│   └── Manual_do_Usuário.docx
-└── README.md
+📁 
 ```
 
 ---
