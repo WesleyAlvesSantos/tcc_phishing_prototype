@@ -1,4 +1,4 @@
-# 🧠 Modelo preditivo para detecção de e-mails de phishing  
+# Modelo preditivo para detecção de e-mails de phishing  
 
 ## 📖 Descrição  
 Projeto desenvolvido como parte do **Trabalho de Conclusão de Curso (TCC)** do curso de **Ciência da Computação** da **Universidade Paulista (UNIP)**.  
