@@ -1,0 +1,13 @@
+subject,body,from,num_urls,num_upper,urgency,label
+"[Epic Games] Confirmação de Compra: Fortnite V-Bucks","Olá! Obrigado por sua compra na Epic Games Store. Este é seu recibo para: 1000 V-Bucks - Fortnite. Total: R$ 34,90. Seu item já está disponível em sua conta Epic Games.","noreply@epicgames.com",0,0,0,0
+"[Microsoft] Novo login no Windows","Foi detectado um novo login em seu dispositivo Windows. Local: São Paulo, Brasil. Se foi você, não é necessária nenhuma ação. Caso contrário, recomendamos alterar sua senha.","account-security-noreply@microsoft.com",0,0,0,0
+"Fatura do cartão Microsoft 365","Sua assinatura do Microsoft 365 foi renovada com sucesso. Próxima cobrança em 07/12/2025. Valor: R$ 24,90. Acesse office.com para ver os detalhes da sua assinatura.","billing@microsoft.com",0,0,0,0
+"[GitHub] Alerta de Segurança: pandas","Detectamos uma vulnerabilidade de segurança em uma dependência do seu repositório: pandas versão 1.5.0. Recomendamos atualizar para a versão 1.5.2 ou superior.","security-noreply@github.com",0,0,0,0
+"GitHub Copilot - Confirmação de Assinatura","Sua assinatura do GitHub Copilot foi ativada com sucesso. Aproveite a codificação com IA em seu Visual Studio Code e outros editores suportados.","noreply@github.com",0,0,0,0
+"[Google] Backup concluído - Google Fotos","O backup automático das suas fotos foi concluído com sucesso. 127 novas fotos foram sincronizadas com o Google Fotos. Espaço utilizado: 2.3GB","photos-noreply@google.com",0,0,0,0
+"Google Play: Recibo de compra do app","Recibo da sua compra no Google Play: Minecraft (R$ 37,90). O app já está disponível para download em seus dispositivos Android.","googleplay-noreply@google.com",0,0,0,0
+"Seu recibo Apple Store","Confirmação de compra: AirPods Pro (2ª geração). Valor: R$ 2.599,00. Acompanhe o status da entrega pelo app Apple Store.","store_receipt@apple.com",0,0,0,0
+"[Apple] Código de verificação","Seu código de verificação Apple é: 493-021. Use este código para confirmar seu login no novo iPhone. Nunca compartilhe este código com ninguém.","no-reply@apple.com",0,0,0,0
+"PayPal: Confirmação de pagamento enviado","Você enviou um pagamento de R$ 150,00 para Maria Silva (maria@email.com). ID da transação: 1AB23456CD. O valor será debitado do seu cartão final 4321.","service@paypal.com",0,0,0,0
+"PayPal: Recebimento confirmado","Você recebeu um pagamento de R$ 250,00 de João Santos (joao@email.com). O valor já está disponível em sua conta PayPal.","service@paypal.com",0,0,0,0
+"Visual Studio Code Update","Nova versão do VS Code disponível (1.85.0). Melhorias: suporte aprimorado ao GitHub Copilot, novo terminal integrado, correções de bugs.","vscode-noreply@microsoft.com",0,0,0,0

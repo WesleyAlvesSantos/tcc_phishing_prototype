@@ -1,0 +1,12 @@
+subject,body,from,num_urls,num_upper,urgency,label
+"Itaú: Fatura do cartão disponível","Sua fatura do cartão final 1234 está disponível para visualização. Vencimento: 15/11/2025. Acesse sua conta pelo app ou internet banking para mais detalhes.","itaucard@itau-unibanco.com.br",0,0,0,0
+"Bradesco: Compra aprovada","Transação realizada - Cartão final 5678: R$ 156,90 em Supermercado Extra em 07/11/2025 às 14:30. Não reconhece? Acesse o app Bradesco.","cartoes@bradesco.com.br",0,0,0,0
+"Banco do Brasil - Confirmação PIX enviado","PIX realizado com sucesso. Valor: R$ 250,00. Destinatário: Maria Silva. Data: 07/11/2025 15:45. Autenticação: ABC123DEF456.","atendimento@bb.com.br",0,0,0,0
+"Santander: Demonstrativo de conta","Seu demonstrativo mensal da conta *****1234 está disponível para visualização no Internet Banking Santander. Período: Outubro/2025","atendimento@santander.com.br",0,0,0,0
+"Nubank: Resumo da sua fatura","Olá! Sua fatura do cartão Nubank fechou. Total: R$ 1.543,21. Vencimento: 10/11/2025. Confira os detalhes no seu app.","fatura@nubank.com.br",0,0,0,0
+"Caixa: Informe de rendimentos disponível","Seu informe de rendimentos da Poupança Caixa está disponível para consulta. Acesse sua conta pela internet ou aplicativo CAIXA.","atendimento@caixa.gov.br",0,0,0,0
+"[Inter] Notificação de TED recebida","Uma TED foi creditada em sua conta. Valor: R$ 1.000,00. Origem: Empresa ABC LTDA. Data: 07/11/2025.","notificacoes@bancointer.com.br",0,0,0,0
+"Sicoob: Comprovante de pagamento","Comprovante de pagamento de boleto - Valor: R$ 459,90. Beneficiário: Empresa XYZ. Autenticação: 123456789.","atendimento@sicoob.com.br",0,0,0,0
+"BTG Pactual: Extrato de investimentos","Seu extrato consolidado de investimentos está disponível. Período: Outubro/2025. Acesse a área logada para visualizar seu portfólio.","digital@btgpactual.com",0,0,0,0
+"[C6 Bank] Aviso de débito agendado","Lembrete: você tem um débito agendado para amanhã. Valor: R$ 89,90. Descrição: Netflix. Mantenha saldo disponível em conta.","avisos@c6bank.com.br",0,0,0,0
+"XP: Relatório de posição","Seu relatório diário de posição está disponível na área do investidor. Acesse sua conta para ver o desempenho da sua carteira.","info@xpi.com.br",0,0,0,0

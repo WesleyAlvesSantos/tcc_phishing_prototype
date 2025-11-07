@@ -1,0 +1,222 @@
+subject,body,from,num_urls,num_upper,urgency,labelsubject,body,from,num_urls,num_upper,urgency,label
+
+Atualização de conta,Atualização do projeto,contato@empresa.com,0,0,0,0Atualização de conta,Atualização do projeto,contato@empresa.com,0,0,0,0
+
+Verificação,Relatório mensal anexado,contato@empresa.com,0,0,0,0Verificação,Relatório mensal anexado,contato@empresa.com,0,0,0,0
+
+Aviso de segurança,"Você ganhou um prêmio, confirme seus dados",noreply@promo-site.com,3,0,0,1Aviso de segurança,"Você ganhou um prêmio, confirme seus dados",noreply@promo-site.com,3,0,0,1
+
+Boletim,Confirmação de inscrição,suporte@meusite.com,0,1,0,0Boletim,Confirmação de inscrição,suporte@meusite.com,0,1,0,0
+
+Atualização de conta,Convite para reunião,suporte@meusite.com,0,0,0,0Atualização de conta,Convite para reunião,suporte@meusite.com,0,0,0,0
+
+Promoção,Clique aqui para verificar sua conta,security@secure-bank.com,1,3,0,1Promoção,Clique aqui para verificar sua conta,security@secure-bank.com,1,3,0,1
+
+Promoção,Confirmação de inscrição,info@universidade.edu,0,0,0,0Promoção,Confirmação de inscrição,info@universidade.edu,0,0,0,0
+
+Fatura,Relatório mensal anexado,noreply@servico.com,0,0,0,0Fatura,Relatório mensal anexado,noreply@servico.com,0,0,0,0
+
+Atualização de conta,Convite para reunião,noreply@servico.com,0,0,0,0Atualização de conta,Convite para reunião,noreply@servico.com,0,0,0,0
+
+Aviso de segurança,Confirmação de inscrição,info@universidade.edu,0,0,0,0Fatura,Atualização do projeto,noreply@servico.com,0,0,0,0
+
+Atualização de conta,Relatório mensal anexado,info@universidade.edu,1,1,0,0Aviso de segurança,Atualização do projeto,noreply@servico.com,0,0,0,0
+
+Alerta de bloqueio,"Prezado cliente,Aviso de segurança,Convite para reunião,noreply@servico.com,0,0,0,0
+
+Atualização de conta,Convite para reunião,info@universidade.edu,0,0,0,0
+
+Identificamos atividades suspeitas na sua conta. Clique no link abaixo para validar seus dados e evitar o bloqueio:Aviso de segurança,"Você ganhou um prêmio, confirme seus dados",noreply@promo-site.com,3,2,0,1
+
+http://bit.ly/validar-contaFatura,Boletim informativo da empresa,noreply@servico.com,0,0,0,0
+
+Verificação,Atualização do projeto,info@universidade.edu,0,1,0,0
+
+Atenciosamente, Equipe de Segurança.",seguranca@suporte-mail.com,1,0,1,1Aviso de segurança,Confirmação de inscrição,contato@empresa.com,0,0,0,0
+Aviso de segurança,Ação necessária: verifique pagamento,contato@empresa.com,3,0,1,1
+Fatura,Confirmação de inscrição,contato@empresa.com,0,0,0,0
+Verificação,Atualização do projeto,contato@empresa.com,0,0,0,0
+Aviso de segurança,Ação necessária: verifique pagamento,support@unknown-login.com,1,5,1,1
+Aviso de segurança,Confirmação de inscrição,noreply@servico.com,1,0,0,0
+Aviso de segurança,"Você ganhou um prêmio, confirme seus dados",support@unknown-login.com,3,0,0,1
+Atualização de conta,Atualização do projeto,noreply@servico.com,1,0,0,0
+Verificação,Clique aqui para verificar sua conta,contato@empresa.com,1,5,0,1
+Verificação,Convite para reunião,noreply@servico.com,0,1,0,0
+Verificação,Ação necessária: verifique pagamento,noreply@promo-site.com,1,4,1,1
+Fatura,Atualização do projeto,contato@empresa.com,0,1,0,0
+Atualização de conta,Seu cartão foi bloqueado,noreply@promo-site.com,1,4,0,1
+Atualização de conta,Relatório mensal anexado,noreply@servico.com,0,0,0,0
+Atualização de conta,Seu cartão foi bloqueado,noreply@promo-site.com,1,4,0,1
+Fatura,Atualize sua senha agora,contato@empresa.com,3,1,1,1
+Fatura,Ação necessária: verifique pagamento,security@secure-bank.com,1,0,1,1
+Promoção,Boletim informativo da empresa,contato@empresa.com,0,0,0,0
+Boletim,Seu cartão foi bloqueado,noreply@promo-site.com,1,1,0,1
+Fatura,Atualize sua senha agora,support@unknown-login.com,2,1,1,1
+Atualização de conta,Boletim informativo da empresa,contato@empresa.com,0,0,0,0
+Verificação,Relatório mensal anexado,noreply@servico.com,1,0,0,0
+Fatura,Convite para reunião,noreply@servico.com,1,0,0,0
+Fatura,Atualização do projeto,suporte@meusite.com,1,1,0,0
+Boletim,Confirmação de inscrição,noreply@servico.com,0,1,0,0
+Aviso de segurança,Clique aqui para verificar sua conta,security@secure-bank.com,3,5,0,1
+Atualização de conta,Relatório mensal anexado,contato@empresa.com,0,0,0,0
+Atualização de conta,Convite para reunião,noreply@servico.com,0,0,0,0
+Verificação,Convite para reunião,contato@empresa.com,0,0,0,0
+Verificação,Confirmação de inscrição,noreply@servico.com,0,0,0,0
+Promoção,Convite para reunião,suporte@meusite.com,0,0,0,0
+Atualização de conta,Relatório mensal anexado,contato@empresa.com,0,0,0,0
+Verificação,Atualização do projeto,contato@empresa.com,0,0,0,0
+Promoção,Atualização do projeto,contato@empresa.com,0,0,0,0
+Verificação,Atualização do projeto,noreply@servico.com,1,0,0,0
+Atualização de conta,"Você ganhou um prêmio, confirme seus dados",support@unknown-login.com,1,2,0,1
+Boletim,Atualização do projeto,info@universidade.edu,0,0,0,0
+Atualização de conta,Clique aqui para verificar sua conta,support@unknown-login.com,3,3,0,1
+Promoção,Atualize sua senha agora,noreply@promo-site.com,3,2,1,1
+Verificação,Boletim informativo da empresa,contato@empresa.com,0,0,0,0
+Boletim,Convite para reunião,noreply@servico.com,0,0,0,0
+Atualização de conta,Atualização do projeto,suporte@meusite.com,0,0,0,0
+Aviso de segurança,Clique aqui para verificar sua conta,contato@empresa.com,2,4,0,1
+Boletim,Convite para reunião,noreply@servico.com,1,0,0,0
+Aviso de segurança,Boletim informativo da empresa,info@universidade.edu,0,0,0,0
+Boletim,Convite para reunião,info@universidade.edu,0,0,0,0
+Fatura,Convite para reunião,suporte@meusite.com,0,1,0,0
+Aviso de segurança,Convite para reunião,info@universidade.edu,0,0,0,0
+Atualização de conta,Atualização do projeto,suporte@meusite.com,0,1,0,0
+Atualização de conta,Atualização do projeto,contato@empresa.com,0,0,0,0
+Fatura,Seu cartão foi bloqueado,contato@empresa.com,3,2,0,1
+Verificação,Relatório mensal anexado,suporte@meusite.com,0,0,0,0
+Fatura,Clique aqui para verificar sua conta,noreply@promo-site.com,3,4,0,1
+Atualização de conta,Atualização do projeto,suporte@meusite.com,0,0,0,0
+Boletim,Boletim informativo da empresa,noreply@servico.com,0,0,0,0
+Boletim,Ação necessária: verifique pagamento,noreply@promo-site.com,3,5,1,1
+Promoção,Boletim informativo da empresa,suporte@meusite.com,0,0,0,0
+Fatura,"Você ganhou um prêmio, confirme seus dados",support@unknown-login.com,3,5,0,1
+Fatura,Convite para reunião,contato@empresa.com,0,0,0,0
+Boletim,"Você ganhou um prêmio, confirme seus dados",noreply@promo-site.com,2,0,0,1
+Aviso de segurança,Convite para reunião,noreply@servico.com,0,0,0,0
+Verificação,Relatório mensal anexado,info@universidade.edu,0,0,0,0
+Aviso de segurança,Convite para reunião,contato@empresa.com,0,0,0,0
+Aviso de segurança,Convite para reunião,contato@empresa.com,0,1,0,0
+Atualização de conta,Boletim informativo da empresa,suporte@meusite.com,0,1,0,0
+Fatura,Confirmação de inscrição,info@universidade.edu,0,1,0,0
+Boletim,Boletim informativo da empresa,suporte@meusite.com,0,0,0,0
+Verificação,Boletim informativo da empresa,info@universidade.edu,0,0,0,0
+Promoção,Atualize sua senha agora,support@unknown-login.com,2,2,1,1
+Atualização de conta,Convite para reunião,noreply@servico.com,0,1,0,0
+Atualização de conta,Boletim informativo da empresa,info@universidade.edu,0,1,0,0
+Fatura,Ação necessária: verifique pagamento,security@secure-bank.com,3,5,1,1
+Verificação,Boletim informativo da empresa,suporte@meusite.com,0,0,0,0
+Fatura,Confirmação de inscrição,info@universidade.edu,0,0,0,0
+Fatura,Ação necessária: verifique pagamento,support@unknown-login.com,1,3,1,1
+Fatura,Convite para reunião,contato@empresa.com,0,0,0,0
+Verificação,Confirmação de inscrição,info@universidade.edu,0,0,0,0
+Fatura,Atualize sua senha agora,contato@empresa.com,1,2,1,1
+Fatura,Atualização do projeto,suporte@meusite.com,0,1,0,0
+Fatura,Atualização do projeto,contato@empresa.com,0,1,0,0
+Atualização de conta,Atualização do projeto,contato@empresa.com,0,0,0,0
+Aviso de segurança,Convite para reunião,noreply@servico.com,0,0,0,0
+Boletim,Clique aqui para verificar sua conta,contato@empresa.com,3,1,0,1
+Promoção,Convite para reunião,noreply@servico.com,0,0,0,0
+Atualização de conta,Confirmação de inscrição,info@universidade.edu,0,0,0,0
+Boletim,Convite para reunião,contato@empresa.com,0,0,0,0
+Promoção,Confirmação de inscrição,suporte@meusite.com,0,0,0,0
+Boletim,Atualização do projeto,contato@empresa.com,0,0,0,0
+Fatura,Relatório mensal anexado,info@universidade.edu,0,0,0,0
+Fatura,Convite para reunião,info@universidade.edu,0,0,0,0
+Boletim,Confirmação de inscrição,contato@empresa.com,0,0,0,0
+Fatura,Atualize sua senha agora,contato@empresa.com,2,4,1,1
+Fatura,Atualização do projeto,suporte@meusite.com,0,0,0,0
+Promoção,Atualização do projeto,contato@empresa.com,1,0,0,0
+Aviso de segurança,Relatório mensal anexado,info@universidade.edu,0,1,0,0
+Aviso de segurança,Boletim informativo da empresa,info@universidade.edu,0,1,0,0
+Atualização de conta,Atualização do projeto,suporte@meusite.com,0,0,0,0
+Promoção,Boletim informativo da empresa,info@universidade.edu,0,0,0,0
+Verificação,Atualização do projeto,suporte@meusite.com,0,1,0,0
+Aviso de segurança,Relatório mensal anexado,contato@empresa.com,0,0,0,0
+Boletim,Convite para reunião,suporte@meusite.com,0,1,0,0
+Verificação,Confirmação de inscrição,noreply@servico.com,0,0,0,0
+Promoção,Atualize sua senha agora,noreply@promo-site.com,2,0,1,1
+Atualização de conta,"Você ganhou um prêmio, confirme seus dados",noreply@promo-site.com,2,5,0,1
+Fatura,Relatório mensal anexado,info@universidade.edu,1,0,0,0
+Promoção,Convite para reunião,info@universidade.edu,1,0,0,0
+Atualização de conta,Ação necessária: verifique pagamento,security@secure-bank.com,2,0,1,1
+Verificação,Seu cartão foi bloqueado,security@secure-bank.com,1,1,0,1
+Fatura,Confirmação de inscrição,info@universidade.edu,0,0,0,0
+Fatura,Atualização do projeto,suporte@meusite.com,1,1,0,0
+Atualização de conta,Confirmação de inscrição,noreply@servico.com,1,0,0,0
+Promoção,Relatório mensal anexado,contato@empresa.com,0,0,0,0
+Fatura,Ação necessária: verifique pagamento,contato@empresa.com,3,4,1,1
+Aviso de segurança,Seu cartão foi bloqueado,contato@empresa.com,3,2,0,1
+Aviso de segurança,Seu cartão foi bloqueado,noreply@promo-site.com,3,4,0,1
+Verificação,Convite para reunião,noreply@servico.com,0,0,0,0
+Aviso de segurança,Seu cartão foi bloqueado,support@unknown-login.com,3,5,0,1
+Fatura,Atualização do projeto,info@universidade.edu,0,0,0,0
+Verificação,Relatório mensal anexado,suporte@meusite.com,1,0,0,0
+Aviso de segurança,"Você ganhou um prêmio, confirme seus dados",support@unknown-login.com,3,0,0,1
+Aviso de segurança,Boletim informativo da empresa,suporte@meusite.com,0,1,0,0
+Verificação,Ação necessária: verifique pagamento,security@secure-bank.com,3,3,1,1
+Fatura,Atualização do projeto,noreply@servico.com,0,0,0,0
+Boletim,Boletim informativo da empresa,contato@empresa.com,0,1,0,0
+Promoção,Atualização do projeto,contato@empresa.com,0,1,0,0
+Verificação,Boletim informativo da empresa,suporte@meusite.com,0,0,0,0
+Fatura,Boletim informativo da empresa,suporte@meusite.com,0,0,0,0
+Promoção,Boletim informativo da empresa,contato@empresa.com,1,1,0,0
+Boletim,"Você ganhou um prêmio, confirme seus dados",noreply@promo-site.com,1,5,0,1
+Atualização de conta,Confirmação de inscrição,contato@empresa.com,0,0,0,0
+Atualização de conta,Convite para reunião,suporte@meusite.com,0,0,0,0
+Fatura,Boletim informativo da empresa,info@universidade.edu,0,0,0,0
+Verificação,"Você ganhou um prêmio, confirme seus dados",security@secure-bank.com,3,1,0,1
+Fatura,Seu cartão foi bloqueado,security@secure-bank.com,3,2,0,1
+Promoção,"Você ganhou um prêmio, confirme seus dados",contato@empresa.com,3,5,0,1
+Fatura,Confirmação de inscrição,info@universidade.edu,0,0,0,0
+Promoção,Convite para reunião,info@universidade.edu,1,0,0,0
+Fatura,Clique aqui para verificar sua conta,contato@empresa.com,2,5,0,1
+Fatura,Boletim informativo da empresa,info@universidade.edu,1,0,0,0
+Aviso de segurança,Confirmação de inscrição,contato@empresa.com,1,0,0,0
+Fatura,Relatório mensal anexado,contato@empresa.com,0,1,0,0
+Fatura,Convite para reunião,suporte@meusite.com,0,0,0,0
+Fatura,Relatório mensal anexado,suporte@meusite.com,1,1,0,0
+Fatura,Confirmação de inscrição,noreply@servico.com,0,0,0,0
+Promoção,Convite para reunião,contato@empresa.com,0,1,0,0
+Boletim,Relatório mensal anexado,contato@empresa.com,0,0,0,0
+Atualização de conta,Seu cartão foi bloqueado,contato@empresa.com,2,2,0,1
+Verificação,Ação necessária: verifique pagamento,noreply@promo-site.com,3,5,1,1
+Atualização de conta,"Você ganhou um prêmio, confirme seus dados",noreply@promo-site.com,2,4,0,1
+Verificação,Convite para reunião,info@universidade.edu,0,0,0,0
+Atualização de conta,Ação necessária: verifique pagamento,noreply@promo-site.com,2,5,1,1
+Promoção,"Você ganhou um prêmio, confirme seus dados",contato@empresa.com,2,5,0,1
+Fatura,Atualização do projeto,info@universidade.edu,0,1,0,0
+Fatura,"Você ganhou um prêmio, confirme seus dados",support@unknown-login.com,2,4,0,1
+Promoção,Relatório mensal anexado,suporte@meusite.com,1,1,0,0
+Boletim,Clique aqui para verificar sua conta,contato@empresa.com,3,5,0,1
+Promoção,Convite para reunião,noreply@servico.com,0,0,0,0
+Verificação,Atualização do projeto,contato@empresa.com,0,0,0,0
+Boletim,Relatório mensal anexado,contato@empresa.com,0,1,0,0
+Boletim,Convite para reunião,suporte@meusite.com,0,0,0,0
+Aviso de segurança,Convite para reunião,suporte@meusite.com,0,0,0,0
+Promoção,Boletim informativo da empresa,suporte@meusite.com,1,0,0,0
+Fatura,Relatório mensal anexado,info@universidade.edu,0,0,0,0
+Verificação,Atualização do projeto,contato@empresa.com,0,1,0,0
+Atualização de conta,Ação necessária: verifique pagamento,support@unknown-login.com,2,5,1,1
+Boletim,Atualização do projeto,info@universidade.edu,0,0,0,0
+Verificação,Seu cartão foi bloqueado,security@secure-bank.com,3,1,0,1
+Fatura,Atualização do projeto,noreply@servico.com,0,0,0,0
+Atualização de conta,Seu cartão foi bloqueado,security@secure-bank.com,2,0,0,1
+Verificação,Atualize sua senha agora,support@unknown-login.com,2,3,1,1
+Boletim,Confirmação de inscrição,info@universidade.edu,0,0,0,0
+Fatura,Confirmação de inscrição,contato@empresa.com,0,0,0,0
+Aviso de segurança,Boletim informativo da empresa,suporte@meusite.com,0,0,0,0
+Boletim,Seu cartão foi bloqueado,support@unknown-login.com,3,5,0,1
+Promoção,Atualize sua senha agora,security@secure-bank.com,1,3,1,1
+Boletim,Confirmação de inscrição,suporte@meusite.com,1,0,0,0
+Aviso de segurança,"Você ganhou um prêmio, confirme seus dados",noreply@promo-site.com,1,0,0,1
+Aviso de segurança,Atualização do projeto,suporte@meusite.com,0,0,0,0
+Aviso de segurança,Convite para reunião,contato@empresa.com,0,0,0,0
+Atualização de conta,Convite para reunião,suporte@meusite.com,0,0,0,0
+Promoção,Clique aqui para verificar sua conta,contato@empresa.com,1,5,0,1
+Boletim,Relatório mensal anexado,contato@empresa.com,0,0,0,0
+Aviso de segurança,Confirmação de inscrição,info@universidade.edu,0,0,0,0
+Atualização de conta,Relatório mensal anexado,info@universidade.edu,1,1,0,0
+Alerta de bloqueio,"Prezado cliente,\n\nIdentificamos atividades suspeitas na sua conta. Clique no link abaixo para validar seus dados e evitar o bloqueio:\nhttp://bit.ly/validar-conta\n\nAtenciosamente, Equipe de Segurança.",seguranca@suporte-mail.com,1,0,1,1
+A l e r t a   d e   b l o q u e i o , " P r e z a d o   c l i e n t e , \ n \ n I d e n t i f i c a m o s   a t i v i d a d e s   s u s p e i t a s   n a   s u a   c o n t a .   C l i q u e   n o   l i n k   a b a i x o   p a r a   v a l i d a r   s e u s   d a d o s   e   e v i t a r   o   b l o q u e i o : \ n h t t p : / / b i t . l y / v a l i d a r - c o n t a \ n \ n A t e n c i o s a m e n t e ,   E q u i p e   d e   S e g u r a n � � a . " , s e g u r a n c a @ s u p o r t e - m a i l . c o m , 1 , 0 , 1 , 1 
+ 
+ 

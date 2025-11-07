@@ -1,0 +1,7 @@
+subject,body,from,num_urls,num_upper,urgency,label
+"Your Epic Games Purchase","Thanks for your purchase! Here's your receipt for your recent Epic Games Store purchase.","store-receipt@epicgames.com",0,2,0,0
+"Microsoft Account Security Info","Keep your account secure by verifying your security info is up to date.","account-security-noreply@microsoft.com",0,3,0,0
+"Your Google Play Order Receipt","Thanks for your order on Google Play. Here's your receipt.","googleplay-noreply@google.com",0,2,0,0
+"Apple ID Sign-in from new device","Your Apple ID was used to sign in to iCloud on a new device.","no-reply@email.apple.com",0,3,0,0
+"Your PayPal receipt","Thank you for using PayPal! Here's your payment confirmation.","service@paypal.com",0,2,0,0
+"GitHub Security Alert","Security alert for your repository: dependency update required","noreply@github.com",1,2,0,0
