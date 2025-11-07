@@ -1,12 +1,12 @@
 # Modelo preditivo para detecção de e-mails de phishing  
 
-## 📖 Descrição  
+## Descrição  
 Projeto desenvolvido como parte do **Trabalho de Conclusão de Curso (TCC)** do curso de **Ciência da Computação** da **Universidade Paulista (UNIP)**.  
 O objetivo é criar um **modelo preditivo** para detectar e-mails de phishing utilizando técnicas de **aprendizado de máquina**, contribuindo para o fortalecimento da segurança digital.  
 
 ---
 
-## ⚙️ Funcionalidades  
+## Funcionalidades  
 - Pré-processamento e análise de e-mails.  
 - Treinamento de modelos de **Árvore de Decisão**, **Regressão Logística** e **Random Forest**.  
 - Avaliação do desempenho do modelo.  
@@ -28,22 +28,13 @@ O objetivo é criar um **modelo preditivo** para detectar e-mails de phishing ut
    http://localhost:8501
    ```
 
----
-
-## 📁 Estrutura do Projeto  
-```
-📁 
-```
-
----
-
-## 🏫 Instituição  
+## Instituição  
 **Universidade Paulista (UNIP)**  
 Curso: Ciência da Computação — 2025  
 
 ---
 
-## 👥 Equipe de Desenvolvimento  
+## Equipe de Desenvolvimento  
 - Bárbara Gazzo Marques  
 - Daniel Dias de Oliveira  
 - Fernanda Alves Gonçalves  
